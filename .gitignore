@@ -1,0 +1,12 @@
+*.apk
+*.dex
+*.keystore
+*.jks
+__pycache__/
+jadx/
+jadx-config/
+jadx-cache/
+tmp*/
+*.log
+module/build/
+docs/
